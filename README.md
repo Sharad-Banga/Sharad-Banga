@@ -3,7 +3,7 @@
   
   
 # 💫 About Me:
-CSE'26<br>Learning MERN <br>WEB3 enthusiast<br>SOLANA<br>
+CSE'26<br> MERN Develpoer <br>
 
 
 ## 🌐 Socials:
