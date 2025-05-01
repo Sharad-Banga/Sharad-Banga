@@ -15,8 +15,6 @@ CSE'26<br> MERN Develpoer <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sharad-Banga&theme=dark&hide_border=false)<br/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sharad-Banga&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sharad-Banga&icon=0&color=0)](https://visitcount.itsvg.in)
